@@ -529,7 +529,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           Text(
                             article.readTime,
                             style: const TextStyle(
-                              color: const Color(0xFF64FFDA),
+                              color: Color(0xFF64FFDA),
                               fontSize: 10,
                               fontWeight: FontWeight.bold,
                             ),

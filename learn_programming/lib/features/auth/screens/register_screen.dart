@@ -1,10 +1,8 @@
 // lib/features/auth/screens/register_screen.dart
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import '../../../core/network/api_client.dart';
 import '../../../core/theme/app_colors.dart';
-import '../../home/screens/home_screen.dart';
 import 'login_screen.dart';
 import './otp_screen.dart';
 
